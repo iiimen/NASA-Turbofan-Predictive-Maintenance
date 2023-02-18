@@ -3,6 +3,7 @@ In the aerospace industry, ensuring the safety of passengers and crew is of utmo
 
 The data used in this project is provided by NASA and represents the Turbofan Engine Degradation Simulation dataset. This dataset contains sensor readings from multiple sensors installed on a fleet of turbofan engines. Our task is to develop a model that can accurately predict the RUL of each engine, given its current state and the historical sensor readings.
 
+# Table of Contents
 1. Introduction
 2. Dataset
 3. Methods
